@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1049751131321",
+    "firebase_url": "https://mkjobs-38a22.firebaseio.com",
+    "project_id": "mkjobs-38a22",
+    "storage_bucket": "mkjobs-38a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049751131321:android:4f1143baf3c4ba38cf3768",
+        "android_client_info": {
+          "package_name": "br.com.mk.ajudamoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049751131321-ck90cfh17jm1ijuri8shrm697m5vec7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-E-2iAD-jlYqaJH2BK9ZJQCZGYcJW9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049751131321-ck90cfh17jm1ijuri8shrm697m5vec7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049751131321-g4cg7n7fapf5e5casee5itpikicljqgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sampafood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049751131321:android:166646a0b624f514cf3768",
+        "android_client_info": {
+          "package_name": "br.com.mk.place.mkplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049751131321-ck90cfh17jm1ijuri8shrm697m5vec7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-E-2iAD-jlYqaJH2BK9ZJQCZGYcJW9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049751131321-ck90cfh17jm1ijuri8shrm697m5vec7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049751131321-g4cg7n7fapf5e5casee5itpikicljqgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sampafood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
